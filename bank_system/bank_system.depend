@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637329769 source:c:\users\asus\downloads\bank_system\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+
+1637680749 source:d:\project\1st_semester_assignment\computing_career_and_programming\bank_system\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+
